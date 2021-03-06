@@ -2,7 +2,7 @@ package company.Lockerspvtltd.com;
 
 public class HomePage {
 
-	final static String PATHNAME="src/resources";
+	final static String PATHNAME="C:\\Users\\danul\\Desktop\\HTML\\Core Java\\src\\company\\Lockerspvtltd\\";
 	
 	
 	public static void main(String[] args) {
